@@ -45,7 +45,7 @@ setup(
         "tqdm==4.43.0",
         "rich==12.2.0",
         "selenium-wire==4.6.3",
-        "requests==2.28.1"
+        "requests==2.31.0"
     ],
     classifiers=[
         "Development Status :: 2 - Pre-Alpha",
